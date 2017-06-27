@@ -10,7 +10,7 @@ This project contains three components :
    [clear text]  ->
    [compression] -> [OTPgen^XOR]
 -> [Codegroup]   -> [CG2Ruski]
-.......................................................................
+
 Clear text will be compressed, then XORed with random OTP data from a
 radio-active/secure random source, using Vigenère/One-time pad
 encryption.
